@@ -1,0 +1,10 @@
+data/
+data2/
+data3/
+./*.pdf
+.env
+__pycache__/
+ignore_folder/
+.venv/
+venv/
+abc/
